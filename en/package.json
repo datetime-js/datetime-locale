@@ -1,0 +1,7 @@
+{
+  "name": "datetime2-locale-en",
+  "version": "2.0.3",
+  "description": "English locale for datetime2",
+  "main": "./en.js",
+  "license": "MIT"
+}

@@ -1,0 +1,7 @@
+{
+  "name": "datetime2-locale-ru",
+  "version": "2.0.3",
+  "description": "Russian locale for datetime2",
+  "main": "./ru.js",
+  "license": "MIT"
+}
